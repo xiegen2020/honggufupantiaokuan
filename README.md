@@ -15,6 +15,16 @@
 
 Pages 配置：Source 选 **Deploy from a branch**，分支 `main`、目录 **Root**。
 
+## 访问地址
+
+主链接走自定义域名（Cloudflare 前置，带 `.html` 的请求会 307 到无扩展名地址，所以对外一律给无扩展名这条）：
+
+- 隐私政策 `https://honggufupan.juehuojue.com/privacy-policy`
+- 用户协议 `https://honggufupan.juehuojue.com/user-agreement`
+- 首页 `https://honggufupan.juehuojue.com/`
+
+GitHub Pages 镜像：`https://xiegen2020.github.io/honggufupantiaokuan/`（同内容，用带 `.html` 的路径）。
+
 ## 内容与维护
 
 - 纯静态 HTML：无 JavaScript、无外部字体与脚本、无统计与 Cookie、无第三方资源，与本应用"不联网、无第三方 SDK"的口径保持一致。
